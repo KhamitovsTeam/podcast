@@ -63841,7 +63841,7 @@ pw:function(a){var s=0,r=P.a7(t.z),q=this,p
 var $async$pw=P.a3(function(b,c){if(b===1)return P.a4(c,r)
 while(true)switch(s){case 0:p=q.c
 s=2
-return P.af(X.a0T("https://khamitovsteam.github.io/podcast/feed.xml"),$async$pw)
+return P.af(X.a0T("https://podcast.khamitovs.team/feed.xml"),$async$pw)
 case 2:p.sn(0,c)
 return P.a5(null,r)}})
 return P.a6($async$pw,r)},
@@ -63892,7 +63892,7 @@ T.XZ.prototype={
 $1:function(a){return new B.mw(this.a,null)},
 $S:409}
 T.XV.prototype={
-$0:function(){T.RA("feed:https://khamitovsteam.github.io/podcast/feed.xml")},
+$0:function(){T.RA("feed:https://podcast.khamitovs.team/feed.xml")},
 $C:"$0",
 $R:0,
 $S:3}
