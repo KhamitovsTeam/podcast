@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "icons/Icon-512.png": "ead12716fab6154ee99a64f8a678df44",
 "icons/Icon-192.png": "e3cb30eb6d55869ca7d9cec1da159306",
-"feed.xml": "55fd7e8843feac5393ec764809e1a1c6",
+"feed.xml": "d61ec51ecca9ce7deb3a84fa933c1246",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555"
