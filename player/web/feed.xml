@@ -28,6 +28,38 @@
     
 
     <item>
+      <author>Rody Davis, Norbert Kozsir</author>
+      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
+      <title>Flutter Desktop/Web and VR</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Norbert Kozsir - @norbertkozsir
+
+https://twitter.com/norbertkozsir
+
+https://github.com/norbert515
+
+
+Rody Davis - @rodydavis
+
+https://twitter.com/rodydavis
+
+https://github.com/rodydavis
+
+https://youtube.com/rodydavis
+
+https://rodydavis.com
+
+Our podcast player: 
+
+https://rodydavis.github.io/podcast-player/
+        </description>
+    </item>
+    <item>
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1046932885</guid>
       <title>#11 Выпуск демо-игры в Steam, статистика, планы и геймдев-квартирник</title>
       <pubDate>Tue, 11 May 2021 15:40:14 +0000</pubDate>
