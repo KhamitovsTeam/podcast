@@ -1,441 +1,503 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-  <channel>
-    <title>Khamitovs Cast</title>
-    <googleplay:author>Khamitovs Team</googleplay:author>
-    <author>Khamitovs Team</author>
-    <itunes:author>Khamitovs Team</itunes:author>
-    <itunes:email>azaliya@khamitovs.team</itunes:email>
-    <itunes:category text="Technology" />
-    <itunes:owner>
-      <itunes:name>Khamitovs Cast</itunes:name>
-      <itunes:email>azaliya@khamitovs.team</itunes:email>
-    </itunes:owner>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+    <channel>
+        <title>Khamitovs Cast</title>
+        <author>Khamitovs Team</author>
+        <copyright>Copyright © 2021 Khamitovs Team. All rights reserved.</copyright>
+        <image>
+            <url>https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg</url>
+            <title>Khamitovs Cast</title>
+            <link>https://soundcloud.com/khamitovs-cast-859970301</link>
+        </image>
+        <description>Khamitovs Team - это маленькая инди-команда. На данный момент мы занимаемся разработкой игры CHIP:
+            Rescuer of Kittens - это платформер метроидвания в ретро стиле про космического спасателя котят.
 
-    <image>
-      <url>https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg</url>
-      <title>Khamitovs Cast</title>
-      <link>https://soundcloud.com/khamitovs-cast-859970301</link>
-    </image>
-    <copyright>Khamitovs Team. All rights reserved.</copyright>
-    <description>Khamitovs Team - это маленькая инди-команда. На данный момент мы занимаемся разработкой игры CHIP: Rescuer of Kittens - это платформер  метроидвания в ретро стиле про космического спасателя котят. 
-
-Ссылка на страницу игры в стиме: https://bit.ly/ChipOnSteam</description>
-    <googleplay:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg" />
-    <language>ru</language>
-    
-
-    <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
-      <itunes:explicit>no</itunes:explicit>
-      <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
+            Ссылка на страницу игры в стиме: https://bit.ly/ChipOnSteam
         </description>
-    </item>
-    <item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1046932885</guid>
-      <title>#11 Выпуск демо-игры в Steam, статистика, планы и геймдев-квартирник</title>
-      <pubDate>Tue, 11 May 2021 15:40:14 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/11-vypusk-demo-igry-v-steam-statistika-plany-i-geymdev-kvartirnik</link>
-      <itunes:duration>00:15:55</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Демо-версия CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
+        <language>ru</language>
 
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>Демо-версия CHIP: Rescuer of Kittens в Steam http…</itunes:subtitle>
-      <description>Демо-версия CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
+        <!-- iTunes -->
+        <itunes:author>Khamitovs Team</itunes:author>
+        <itunes:email>azaliya@khamitovs.team</itunes:email>
+        <itunes:category text="Technology"/>
+        <itunes:owner>
+            <itunes:name>Khamitovs Cast</itunes:name>
+            <itunes:email>azaliya@khamitovs.team</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
 
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1046932885-khamitovs-cast-859970301-11-vypusk-demo-igry-v-steam-statistika-plany-i-geymdev-kvartirnik.mp3" length="38210105"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1022538808</guid>
-      <title>#10 Про фреймфорки Monogame, XNA, FNA и новости по demo-версии игры</title>
-      <pubDate>Mon, 05 Apr 2021 09:13:38 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/10-pro-freymforki-monogame-xna-fna-i-novosti-po-demo-versii-igry</link>
-      <itunes:duration>00:13:01</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-t…</itunes:subtitle>
-      <description>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1022538808-khamitovs-cast-859970301-10-pro-freymforki-monogame-xna-fna-i-novosti-po-demo-versii-igry.mp3" length="31243769"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1018344472</guid>
-      <title>#9 Потрачено, тетрис, Halo, Совершенный код, вебинары и всё такое</title>
-      <pubDate>Mon, 29 Mar 2021 09:25:14 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/9-potracheno-tetris-halo-sovershennyy-kod-vebinary-i-vsyo-takoe</link>
-      <itunes:duration>00:24:17</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD
+        <!-- Google -->
+        <googleplay:author>Khamitovs Team</googleplay:author>
+        <googleplay:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
 
-Лекция по Unity: https://www.youtube.com/watch?v=6yjnFyp8cDY
-Вебинар по Godot: https://www.youtube.com/watch?v=9Yo-GHIxKDM
-Курс Введение в геймдев: https://www.devtodev.com/education/online-course/introduction-to-game-development
+        <!-- Items -->
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1046932885</guid>
+            <title>#11 Выпуск демо-игры в Steam, статистика, планы и геймдев-квартирник</title>
+            <pubDate>Tue, 11 May 2021 15:40:14 +0000</pubDate>
+            <link>
+                https://soundcloud.com/khamitovs-cast-859970301/11-vypusk-demo-igry-v-steam-statistika-plany-i-geymdev-kvartirnik
+            </link>
+            <itunes:duration>00:15:55</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Демо-версия CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
 
-Упомянутые игры:
-- Little Nightmares 2
-- Night in the Woods
-- Creaks
-- Tetris Effect
-- Journey
-- Deponia 2
-- Battletoads
-- Halo Wars
-- Halo 2
-- Control
-- Forza Horizon 4
-- Super Mario 3D World
-- Ring Fit Adventure
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>Демо-версия CHIP: Rescuer of Kittens в Steam http…</itunes:subtitle>
+            <description>Демо-версия CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
 
-Книги:
-- Совершенный код, С. Макконнелл
-- Потрачено. Беспредельная история создания GTA, Д. Кушнер
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/1046932885-khamitovs-cast-859970301-11-vypusk-demo-igry-v-steam-statistika-plany-i-geymdev-kvartirnik.mp3"
+                       length="38210105"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1022538808</guid>
+            <title>#10 Про фреймфорки Monogame, XNA, FNA и новости по demo-версии игры</title>
+            <pubDate>Mon, 05 Apr 2021 09:13:38 +0000</pubDate>
+            <link>
+                https://soundcloud.com/khamitovs-cast-859970301/10-pro-freymforki-monogame-xna-fna-i-novosti-po-demo-versii-igry
+            </link>
+            <itunes:duration>00:13:01</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                t…
+            </itunes:subtitle>
+            <description>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/1022538808-khamitovs-cast-859970301-10-pro-freymforki-monogame-xna-fna-i-novosti-po-demo-versii-igry.mp3"
+                       length="31243769"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1018344472</guid>
+            <title>#9 Потрачено, тетрис, Halo, Совершенный код, вебинары и всё такое</title>
+            <pubDate>Mon, 29 Mar 2021 09:25:14 +0000</pubDate>
+            <link>
+                https://soundcloud.com/khamitovs-cast-859970301/9-potracheno-tetris-halo-sovershennyy-kod-vebinary-i-vsyo-takoe
+            </link>
+            <itunes:duration>00:24:17</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
 
-Кино: Лига справедливости Зака Снайдера</itunes:summary>
-      <itunes:subtitle>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-t…</itunes:subtitle>
-      <description>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD
+                Лекция по Unity: https://www.youtube.com/watch?v=6yjnFyp8cDY
+                Вебинар по Godot: https://www.youtube.com/watch?v=9Yo-GHIxKDM
+                Курс Введение в геймдев:
+                https://www.devtodev.com/education/online-course/introduction-to-game-development
 
-Лекция по Unity: https://www.youtube.com/watch?v=6yjnFyp8cDY
-Вебинар по Godot: https://www.youtube.com/watch?v=9Yo-GHIxKDM
-Курс Введение в геймдев: https://www.devtodev.com/education/online-course/introduction-to-game-development
+                Упомянутые игры:
+                - Little Nightmares 2
+                - Night in the Woods
+                - Creaks
+                - Tetris Effect
+                - Journey
+                - Deponia 2
+                - Battletoads
+                - Halo Wars
+                - Halo 2
+                - Control
+                - Forza Horizon 4
+                - Super Mario 3D World
+                - Ring Fit Adventure
 
-Упомянутые игры:
-- Little Nightmares 2
-- Night in the Woods
-- Creaks
-- Tetris Effect
-- Journey
-- Deponia 2
-- Battletoads
-- Halo Wars
-- Halo 2
-- Control
-- Forza Horizon 4
-- Super Mario 3D World
-- Ring Fit Adventure
+                Книги:
+                - Совершенный код, С. Макконнелл
+                - Потрачено. Беспредельная история создания GTA, Д. Кушнер
 
-Книги:
-- Совершенный код, С. Макконнелл
-- Потрачено. Беспредельная история создания GTA, Д. Кушнер
+                Кино: Лига справедливости Зака Снайдера
+            </itunes:summary>
+            <itunes:subtitle>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                t…
+            </itunes:subtitle>
+            <description>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
 
-Кино: Лига справедливости Зака Снайдера</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1018344472-khamitovs-cast-859970301-9-potracheno-tetris-halo-sovershennyy-kod-vebinary-i-vsyo-takoe.mp3" length="58294082"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/990524473</guid>
-      <title>#8 Прогресс разработки CHIP, game jam и другие новости</title>
-      <pubDate>Mon, 22 Feb 2021 14:08:37 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/8-progress-razrabotki-chip-game-jam-i-drugie-novosti</link>
-      <itunes:duration>00:16:52</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD
+                Лекция по Unity: https://www.youtube.com/watch?v=6yjnFyp8cDY
+                Вебинар по Godot: https://www.youtube.com/watch?v=9Yo-GHIxKDM
+                Курс Введение в геймдев:
+                https://www.devtodev.com/education/online-course/introduction-to-game-development
 
-Игра в рамках Nokia 3310 Jam: https://zaza.itch.io/the-witch
-Статья про Creaks: https://media-xyz.com/ru/articles/1252-kak-v-amanita-design-sozdavali-creaks
-Расшифровка подкаста КДИ с участием Азалии: https://dtf.ru/kdi/649916-rabota-i-samoobuchenie-iz-doma-s-detmi-kak-delayut-igry-311</itunes:summary>
-      <itunes:subtitle>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-t…</itunes:subtitle>
-      <description>Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD
+                Упомянутые игры:
+                - Little Nightmares 2
+                - Night in the Woods
+                - Creaks
+                - Tetris Effect
+                - Journey
+                - Deponia 2
+                - Battletoads
+                - Halo Wars
+                - Halo 2
+                - Control
+                - Forza Horizon 4
+                - Super Mario 3D World
+                - Ring Fit Adventure
 
-Игра в рамках Nokia 3310 Jam: https://zaza.itch.io/the-witch
-Статья про Creaks: https://media-xyz.com/ru/articles/1252-kak-v-amanita-design-sozdavali-creaks
-Расшифровка подкаста КДИ с участием Азалии: https://dtf.ru/kdi/649916-rabota-i-samoobuchenie-iz-doma-s-detmi-kak-delayut-igry-311</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/990524473-khamitovs-cast-859970301-8-progress-razrabotki-chip-game-jam-i-drugie-novosti.mp3" length="40518230"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/978210811</guid>
-      <title>#7 Дневник разработки. Новости по проекту и Nokia Jam</title>
-      <pubDate>Wed, 03 Feb 2021 10:31:49 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/7-dnevnik-razrabotki-novosti-po-proektu-i-nokia-jam</link>
-      <itunes:duration>00:09:56</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>В этом эпизоде мы рассказываем о прогрессе разработки &quot;CHIP: Спасатель Котят&quot;. Упоминаем Nokia 3310 Jam: itch.io/jam/nokiajam3
+                Книги:
+                - Совершенный код, С. Макконнелл
+                - Потрачено. Беспредельная история создания GTA, Д. Кушнер
 
-Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>В этом эпизоде мы рассказываем о прогрессе разраб…</itunes:subtitle>
-      <description>В этом эпизоде мы рассказываем о прогрессе разработки &quot;CHIP: Спасатель Котят&quot;. Упоминаем Nokia 3310 Jam: itch.io/jam/nokiajam3
+                Кино: Лига справедливости Зака Снайдера
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/1018344472-khamitovs-cast-859970301-9-potracheno-tetris-halo-sovershennyy-kod-vebinary-i-vsyo-takoe.mp3"
+                       length="58294082"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/990524473</guid>
+            <title>#8 Прогресс разработки CHIP, game jam и другие новости</title>
+            <pubDate>Mon, 22 Feb 2021 14:08:37 +0000</pubDate>
+            <link>https://soundcloud.com/khamitovs-cast-859970301/8-progress-razrabotki-chip-game-jam-i-drugie-novosti
+            </link>
+            <itunes:duration>00:16:52</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
 
-Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/978210811-khamitovs-cast-859970301-7-dnevnik-razrabotki-novosti-po-proektu-i-nokia-jam.mp3" length="23856300"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/966117598</guid>
-      <title>#6 QA - Как попали в геймдев, костыли, планирование и курсы</title>
-      <pubDate>Fri, 15 Jan 2021 11:43:47 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/6-qa-kak-popali-v-geymdev-kostyli-planirovanie-i-kursy</link>
-      <itunes:duration>00:17:04</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Отвечаем на вопросы из твиттера и со стрима.
+                Игра в рамках Nokia 3310 Jam: https://zaza.itch.io/the-witch
+                Статья про Creaks: https://media-xyz.com/ru/articles/1252-kak-v-amanita-design-sozdavali-creaks
+                Расшифровка подкаста КДИ с участием Азалии:
+                https://dtf.ru/kdi/649916-rabota-i-samoobuchenie-iz-doma-s-detmi-kak-delayut-igry-311
+            </itunes:summary>
+            <itunes:subtitle>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                t…
+            </itunes:subtitle>
+            <description>Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
 
-Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>Отвечаем на вопросы из твиттера и со стрима.
+                Игра в рамках Nokia 3310 Jam: https://zaza.itch.io/the-witch
+                Статья про Creaks: https://media-xyz.com/ru/articles/1252-kak-v-amanita-design-sozdavali-creaks
+                Расшифровка подкаста КДИ с участием Азалии:
+                https://dtf.ru/kdi/649916-rabota-i-samoobuchenie-iz-doma-s-detmi-kak-delayut-igry-311
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/990524473-khamitovs-cast-859970301-8-progress-razrabotki-chip-game-jam-i-drugie-novosti.mp3"
+                       length="40518230"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/978210811</guid>
+            <title>#7 Дневник разработки. Новости по проекту и Nokia Jam</title>
+            <pubDate>Wed, 03 Feb 2021 10:31:49 +0000</pubDate>
+            <link>https://soundcloud.com/khamitovs-cast-859970301/7-dnevnik-razrabotki-novosti-po-proektu-i-nokia-jam
+            </link>
+            <itunes:duration>00:09:56</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>В этом эпизоде мы рассказываем о прогрессе разработки &quot;CHIP: Спасатель Котят&quot;.
+                Упоминаем Nokia 3310 Jam: itch.io/jam/nokiajam3
 
-Стр…</itunes:subtitle>
-      <description>Отвечаем на вопросы из твиттера и со стрима.
+                Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>В этом эпизоде мы рассказываем о прогрессе разраб…</itunes:subtitle>
+            <description>В этом эпизоде мы рассказываем о прогрессе разработки &quot;CHIP: Спасатель Котят&quot;.
+                Упоминаем Nokia 3310 Jam: itch.io/jam/nokiajam3
 
-Страница нашей игры в Steam: bit.ly/ChipOnSteam
-twitter: twitter.com/khamitovsteam
-telegram: t.me/khamitovsteam
-vk: vk.com/khamitovsteam
-discord: discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/966117598-khamitovs-cast-859970301-6-qa-kak-popali-v-geymdev-kostyli-planirovanie-i-kursy.mp3" length="40967589"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-V2TKGhAv9glIOP9f-UNuLUw-t3000x3000.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/950553805</guid>
-      <title>#5 Соло выпуск с Азалией. Про геймджемы, Индикатор и вдохновение</title>
-      <pubDate>Sat, 19 Dec 2020 10:21:02 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/5-solo-vypusk-s-azaliey-pro-geymdzhemy-indikator-i-vdokhnovenie</link>
-      <itunes:duration>00:19:12</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>В этом выпуске я рассказываю об участии в геймджеме от Индикатор. 
-Ссылка на игру из джема: https://zaza.itch.io/to-winter
-Сайт Индикатора: http://indikator.space
+                Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/978210811-khamitovs-cast-859970301-7-dnevnik-razrabotki-novosti-po-proektu-i-nokia-jam.mp3"
+                       length="23856300"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/966117598</guid>
+            <title>#6 QA - Как попали в геймдев, костыли, планирование и курсы</title>
+            <pubDate>Fri, 15 Jan 2021 11:43:47 +0000</pubDate>
+            <link>
+                https://soundcloud.com/khamitovs-cast-859970301/6-qa-kak-popali-v-geymdev-kostyli-planirovanie-i-kursy
+            </link>
+            <itunes:duration>00:17:04</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Отвечаем на вопросы из твиттера и со стрима.
 
-Страница нашей игры в Steam: https://bit.ly/ChipOnSteam
-twitter: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-vk: https://vk.com/khamitovsteam
-discord: https://discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>В этом выпуске я рассказываю об участии в геймдже…</itunes:subtitle>
-      <description>В этом выпуске я рассказываю об участии в геймджеме от Индикатор. 
-Ссылка на игру из джема: https://zaza.itch.io/to-winter
-Сайт Индикатора: http://indikator.space
+                Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>Отвечаем на вопросы из твиттера и со стрима.
 
-Страница нашей игры в Steam: https://bit.ly/ChipOnSteam
-twitter: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-vk: https://vk.com/khamitovsteam
-discord: https://discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/950553805-khamitovs-cast-859970301-5-solo-vypusk-s-azaliey-pro-geymdzhemy-indikator-i-vdokhnovenie.mp3" length="46093825"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/944802277</guid>
-      <title>#4 Кино, сериалы, книги про геймдев и видеоигры</title>
-      <pubDate>Thu, 10 Dec 2020 07:55:57 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/kino-serialy-knigi-pro-geymdev-i-videoigry</link>
-      <itunes:duration>00:20:35</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>В это эпизоде мы упоминаем фильмы:
-* Indie Game The Movie (2012)
-* Тетрис - из России с любовью (2004)
-* Free to Play (2014)
-* Сериал Hight Score (2020)
-* Сериал Ведьмак / The Witcher (2019)
-* Варкрафт / Warcraft (2016)
-* Пиксели (2015)
-* Соник в кино (2020)
-* Atari: Game Over (2014) - про игру E.T.
+                Стр…
+            </itunes:subtitle>
+            <description>Отвечаем на вопросы из твиттера и со стрима.
 
-Книги:
-* Эренст Клайн &quot;Первому игроку приготовиться&quot; (2011)
-* Властелины Doom, Дэвид Кушнер
-* Кровь Пот и Пиксели, Джейсон Шрейер
-* Game Over. Как Нинтендо завоевала мир (2014)
-* История Нинтендо 1889-1980. Книга 1: от игральных карт до Game Watch
+                Страница нашей игры в Steam: bit.ly/ChipOnSteam
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/966117598-khamitovs-cast-859970301-6-qa-kak-popali-v-geymdev-kostyli-planirovanie-i-kursy.mp3"
+                       length="40967589"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-V2TKGhAv9glIOP9f-UNuLUw-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/950553805</guid>
+            <title>#5 Соло выпуск с Азалией. Про геймджемы, Индикатор и вдохновение</title>
+            <pubDate>Sat, 19 Dec 2020 10:21:02 +0000</pubDate>
+            <link>
+                https://soundcloud.com/khamitovs-cast-859970301/5-solo-vypusk-s-azaliey-pro-geymdzhemy-indikator-i-vdokhnovenie
+            </link>
+            <itunes:duration>00:19:12</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>В этом выпуске я рассказываю об участии в геймджеме от Индикатор.
+                Ссылка на игру из джема: https://zaza.itch.io/to-winter
+                Сайт Индикатора: http://indikator.space
 
-А также подкасты:
-* Как делают игры
-* Геймдев без сахара
-* GameDev Loadout | A Game Developer Podcast
-* 2D Radio - Бьюти блог для разработчиков игр (Олег Придюк)
-* Манжеты гейм-дизайнера
+                Страница нашей игры в Steam: https://bit.ly/ChipOnSteam
+                twitter: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                vk: https://vk.com/khamitovsteam
+                discord: https://discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>В этом выпуске я рассказываю об участии в геймдже…</itunes:subtitle>
+            <description>В этом выпуске я рассказываю об участии в геймджеме от Индикатор.
+                Ссылка на игру из джема: https://zaza.itch.io/to-winter
+                Сайт Индикатора: http://indikator.space
 
+                Страница нашей игры в Steam: https://bit.ly/ChipOnSteam
+                twitter: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                vk: https://vk.com/khamitovsteam
+                discord: https://discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/950553805-khamitovs-cast-859970301-5-solo-vypusk-s-azaliey-pro-geymdzhemy-indikator-i-vdokhnovenie.mp3"
+                       length="46093825"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/944802277</guid>
+            <title>#4 Кино, сериалы, книги про геймдев и видеоигры</title>
+            <pubDate>Thu, 10 Dec 2020 07:55:57 +0000</pubDate>
+            <link>https://soundcloud.com/khamitovs-cast-859970301/kino-serialy-knigi-pro-geymdev-i-videoigry</link>
+            <itunes:duration>00:20:35</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>В это эпизоде мы упоминаем фильмы:
+                * Indie Game The Movie (2012)
+                * Тетрис - из России с любовью (2004)
+                * Free to Play (2014)
+                * Сериал Hight Score (2020)
+                * Сериал Ведьмак / The Witcher (2019)
+                * Варкрафт / Warcraft (2016)
+                * Пиксели (2015)
+                * Соник в кино (2020)
+                * Atari: Game Over (2014) - про игру E.T.
 
-страница нашей игры в Steam: https://bit.ly/ChipOnSteam
-твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam
-discord сервер: https://discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>В это эпизоде мы упоминаем фильмы:
-* Indie Game T…</itunes:subtitle>
-      <description>В это эпизоде мы упоминаем фильмы:
-* Indie Game The Movie (2012)
-* Тетрис - из России с любовью (2004)
-* Free to Play (2014)
-* Сериал Hight Score (2020)
-* Сериал Ведьмак / The Witcher (2019)
-* Варкрафт / Warcraft (2016)
-* Пиксели (2015)
-* Соник в кино (2020)
-* Atari: Game Over (2014) - про игру E.T.
+                Книги:
+                * Эренст Клайн &quot;Первому игроку приготовиться&quot; (2011)
+                * Властелины Doom, Дэвид Кушнер
+                * Кровь Пот и Пиксели, Джейсон Шрейер
+                * Game Over. Как Нинтендо завоевала мир (2014)
+                * История Нинтендо 1889-1980. Книга 1: от игральных карт до Game Watch
 
-Книги:
-* Эренст Клайн &quot;Первому игроку приготовиться&quot; (2011)
-* Властелины Doom, Дэвид Кушнер
-* Кровь Пот и Пиксели, Джейсон Шрейер
-* Game Over. Как Нинтендо завоевала мир (2014)
-* История Нинтендо 1889-1980. Книга 1: от игральных карт до Game Watch
-
-А также подкасты:
-* Как делают игры
-* Геймдев без сахара
-* GameDev Loadout | A Game Developer Podcast
-* 2D Radio - Бьюти блог для разработчиков игр (Олег Придюк)
-* Манжеты гейм-дизайнера
-
-
-страница нашей игры в Steam: https://bit.ly/ChipOnSteam
-твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam
-discord сервер: https://discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/944802277-khamitovs-cast-859970301-kino-serialy-knigi-pro-geymdev-i-videoigry.mp3" length="49417599"/>
-      <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/930845224</guid>
-      <title>#3 Про игровые движки</title>
-      <pubDate>Tue, 17 Nov 2020 13:53:09 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/pro-igrovye-dvizhki</link>
-      <itunes:duration>00:15:50</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>В этом эпизлде мы говорим об игровых движках. Какие бывают, чем они хороши и стоит ли писать свой движок.
-
-страница игры в Steam: https://bit.ly/ChipOnSteam
-наш твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam
-discord сервер: https://discord.com/invite/dv657RD</itunes:summary>
-      <itunes:subtitle>В этом эпизлде мы говорим об игровых движках. Как…</itunes:subtitle>
-      <description>В этом эпизлде мы говорим об игровых движках. Какие бывают, чем они хороши и стоит ли писать свой движок.
-
-страница игры в Steam: https://bit.ly/ChipOnSteam
-наш твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam
-discord сервер: https://discord.com/invite/dv657RD</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/930845224-khamitovs-cast-859970301-pro-igrovye-dvizhki.mp3" length="38022935"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-o93fIAr5x6mvL4YJ-kMoIdw-t3000x3000.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/918948253</guid>
-      <title>#2 Про любимые игры, игровые платформы и коронавирус.</title>
-      <pubDate>Wed, 28 Oct 2020 11:50:03 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/pro-lyubimye-igry-igrovye-platformy-i-koronavirus</link>
-      <itunes:duration>00:17:18</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>В этом эпизоде рассказываем о наших любимых играх, в какие игры вообще играем и что нас вдохновляет. Обсуждаем инди игры и демки инди игр. А также рассказываем, как сидим на карантине из-за коронавируса
+                А также подкасты:
+                * Как делают игры
+                * Геймдев без сахара
+                * GameDev Loadout | A Game Developer Podcast
+                * 2D Radio - Бьюти блог для разработчиков игр (Олег Придюк)
+                * Манжеты гейм-дизайнера
 
 
-страница игры в Steam: https://bit.ly/ChipOnSteam
-наш твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam</itunes:summary>
-      <itunes:subtitle>В этом эпизоде рассказываем о наших любимых играх…</itunes:subtitle>
-      <description>В этом эпизоде рассказываем о наших любимых играх, в какие игры вообще играем и что нас вдохновляет. Обсуждаем инди игры и демки инди игр. А также рассказываем, как сидим на карантине из-за коронавируса
+                страница нашей игры в Steam: https://bit.ly/ChipOnSteam
+                твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+                discord сервер: https://discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>В это эпизоде мы упоминаем фильмы:
+                * Indie Game T…
+            </itunes:subtitle>
+            <description>В это эпизоде мы упоминаем фильмы:
+                * Indie Game The Movie (2012)
+                * Тетрис - из России с любовью (2004)
+                * Free to Play (2014)
+                * Сериал Hight Score (2020)
+                * Сериал Ведьмак / The Witcher (2019)
+                * Варкрафт / Warcraft (2016)
+                * Пиксели (2015)
+                * Соник в кино (2020)
+                * Atari: Game Over (2014) - про игру E.T.
+
+                Книги:
+                * Эренст Клайн &quot;Первому игроку приготовиться&quot; (2011)
+                * Властелины Doom, Дэвид Кушнер
+                * Кровь Пот и Пиксели, Джейсон Шрейер
+                * Game Over. Как Нинтендо завоевала мир (2014)
+                * История Нинтендо 1889-1980. Книга 1: от игральных карт до Game Watch
+
+                А также подкасты:
+                * Как делают игры
+                * Геймдев без сахара
+                * GameDev Loadout | A Game Developer Podcast
+                * 2D Radio - Бьюти блог для разработчиков игр (Олег Придюк)
+                * Манжеты гейм-дизайнера
 
 
-страница игры в Steam: https://bit.ly/ChipOnSteam
-наш твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/918948253-khamitovs-cast-859970301-pro-lyubimye-igry-igrovye-platformy-i-koronavirus.mp3" length="16619728"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-kcamMtP8YwJgA8MD-yEJOXA-t3000x3000.jpg"/>
-    </item><item>
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/910582759</guid>
-      <title>#1 Q&amp;A: Кто мы, когда релиз и четыре оттенка зелёного</title>
-      <pubDate>Wed, 14 Oct 2020 19:12:32 +0000</pubDate>
-      <link>https://soundcloud.com/khamitovs-cast-859970301/qa-kto-my-kogda-reliz-i-chetyre-ottenka-zelyonogo</link>
-      <itunes:duration>00:10:09</itunes:duration>
-      <itunes:author>Khamitovs Team</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Отвечаем на вопросы о разработке игры CHIP: Спасатель Котят.
+                страница нашей игры в Steam: https://bit.ly/ChipOnSteam
+                твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+                discord сервер: https://discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/944802277-khamitovs-cast-859970301-kino-serialy-knigi-pro-geymdev-i-videoigry.mp3"
+                       length="49417599"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/930845224</guid>
+            <title>#3 Про игровые движки</title>
+            <pubDate>Tue, 17 Nov 2020 13:53:09 +0000</pubDate>
+            <link>https://soundcloud.com/khamitovs-cast-859970301/pro-igrovye-dvizhki</link>
+            <itunes:duration>00:15:50</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>В этом эпизлде мы говорим об игровых движках. Какие бывают, чем они хороши и стоит ли писать
+                свой движок.
+
+                страница игры в Steam: https://bit.ly/ChipOnSteam
+                наш твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+                discord сервер: https://discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>В этом эпизлде мы говорим об игровых движках. Как…</itunes:subtitle>
+            <description>В этом эпизлде мы говорим об игровых движках. Какие бывают, чем они хороши и стоит ли писать
+                свой движок.
+
+                страница игры в Steam: https://bit.ly/ChipOnSteam
+                наш твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+                discord сервер: https://discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/930845224-khamitovs-cast-859970301-pro-igrovye-dvizhki.mp3"
+                       length="38022935"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-o93fIAr5x6mvL4YJ-kMoIdw-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/918948253</guid>
+            <title>#2 Про любимые игры, игровые платформы и коронавирус.</title>
+            <pubDate>Wed, 28 Oct 2020 11:50:03 +0000</pubDate>
+            <link>https://soundcloud.com/khamitovs-cast-859970301/pro-lyubimye-igry-igrovye-platformy-i-koronavirus
+            </link>
+            <itunes:duration>00:17:18</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>В этом эпизоде рассказываем о наших любимых играх, в какие игры вообще играем и что нас
+                вдохновляет. Обсуждаем инди игры и демки инди игр. А также рассказываем, как сидим на карантине из-за
+                коронавируса
 
 
-страница игры в Steam: https://bit.ly/ChipOnSteam
-наш твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam</itunes:summary>
-      <itunes:subtitle>Отвечаем на вопросы о разработке игры CHIP: Спаса…</itunes:subtitle>
-      <description>Отвечаем на вопросы о разработке игры CHIP: Спасатель Котят.
+                страница игры в Steam: https://bit.ly/ChipOnSteam
+                наш твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+            </itunes:summary>
+            <itunes:subtitle>В этом эпизоде рассказываем о наших любимых играх…</itunes:subtitle>
+            <description>В этом эпизоде рассказываем о наших любимых играх, в какие игры вообще играем и что нас
+                вдохновляет. Обсуждаем инди игры и демки инди игр. А также рассказываем, как сидим на карантине из-за
+                коронавируса
 
 
-страница игры в Steam: https://bit.ly/ChipOnSteam
-наш твиттер: https://twitter.com/khamitovsteam
-telegram: https://t.me/khamitovsteam
-сообщество в vk: https://vk.com/khamitovsteam</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/910582759-khamitovs-cast-859970301-qa-kto-my-kogda-reliz-i-chetyre-ottenka-zelyonogo.mp3" length="9746807"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-kQY7ruQOzqbJuJpe-s3PTzg-t3000x3000.jpg"/>
-    </item>
-  </channel>
+                страница игры в Steam: https://bit.ly/ChipOnSteam
+                наш твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/918948253-khamitovs-cast-859970301-pro-lyubimye-igry-igrovye-platformy-i-koronavirus.mp3"
+                       length="16619728"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-kcamMtP8YwJgA8MD-yEJOXA-t3000x3000.jpg"/>
+        </item>
+        <item>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/910582759</guid>
+            <title>#1 Q&amp;A: Кто мы, когда релиз и четыре оттенка зелёного</title>
+            <pubDate>Wed, 14 Oct 2020 19:12:32 +0000</pubDate>
+            <link>https://soundcloud.com/khamitovs-cast-859970301/qa-kto-my-kogda-reliz-i-chetyre-ottenka-zelyonogo
+            </link>
+            <itunes:duration>00:10:09</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>Отвечаем на вопросы о разработке игры CHIP: Спасатель Котят.
+
+
+                страница игры в Steam: https://bit.ly/ChipOnSteam
+                наш твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+            </itunes:summary>
+            <itunes:subtitle>Отвечаем на вопросы о разработке игры CHIP: Спаса…</itunes:subtitle>
+            <description>Отвечаем на вопросы о разработке игры CHIP: Спасатель Котят.
+
+
+                страница игры в Steam: https://bit.ly/ChipOnSteam
+                наш твиттер: https://twitter.com/khamitovsteam
+                telegram: https://t.me/khamitovsteam
+                сообщество в vk: https://vk.com/khamitovsteam
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://feeds.soundcloud.com/stream/910582759-khamitovs-cast-859970301-qa-kto-my-kogda-reliz-i-chetyre-ottenka-zelyonogo.mp3"
+                       length="9746807"/>
+            <itunes:image href="https://i1.sndcdn.com/artworks-kQY7ruQOzqbJuJpe-s3PTzg-t3000x3000.jpg"/>
+        </item>
+        <!-- ITEMS -->
+    </channel>
 </rss>
