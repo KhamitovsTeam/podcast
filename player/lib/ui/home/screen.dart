@@ -8,7 +8,7 @@ import '../../src/constants.dart';
 import '../../src/controllers/podcast.dart';
 import 'details.dart';
 
-const kTabletBreakpiint = 720.0;
+const kTabletBreakpoint = 720.0;
 const kSideMenuWidth = 350.0;
 
 class HomeScreen extends StatelessWidget {
@@ -18,7 +18,7 @@ class HomeScreen extends StatelessWidget {
 
     return LayoutBuilder(
       builder: (_, dimens) {
-        if (dimens.maxWidth >= kTabletBreakpiint) {
+        if (dimens.maxWidth >= kTabletBreakpoint) {
           return Row(
             children: <Widget>[
               Container(
@@ -59,7 +59,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: false,
-        title: Text('KhamitovsCast'),
+        title: Text('Khamitovs Cast'),
         actions: [
           IconButton(
             icon: Icon(Icons.rss_feed),

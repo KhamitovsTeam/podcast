@@ -1,5 +1,5 @@
 name: player
-description: KhamitovsCast Podcast Player.
+description: Khamitovs Cast Podcast Player.
 publish_to: "none"
 version: 1.0.0+1
 environment:

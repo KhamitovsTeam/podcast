@@ -1,7 +1,5 @@
-import 'package:easy_web_view/easy_web_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
-import 'package:player/src/constants.dart';
 import 'package:podcast_search/podcast_search.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -34,22 +32,7 @@ class EpisodeDetails extends StatelessWidget {
                 data: episode.description,
                 shrinkWrap: true,
                 onTapLink: (val) => launch(val),
-              ),
-              Center(
-                child: Wrap(
-                  children: <Widget>[
-                    Container(
-                      width: 300,
-                      padding: const EdgeInsets.all(8.0),
-                      child: GestureDetector(
-                        onTap: () => launch(kSpotifyLink),
-                        child: Image.network(
-                            'https://khamitovsteam.github.io/podcast-player/img/spotify.png'),
-                      ),
-                    ),
-                  ],
-                ),
-              ),
+              )
             ],
           ),
         ),

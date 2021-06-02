@@ -1,3 +1,1 @@
-const kPodcastFeed =
-    'https://khamitovsteam.github.io/podcast-player/feed.xml';
-const kSpotifyLink = 'https://open.spotify.com/';
+const kPodcastFeed = 'https://khamitovsteam.github.io/podcast/feed.xml';

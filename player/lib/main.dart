@@ -5,15 +5,15 @@ import 'src/controllers/podcast.dart';
 import 'ui/home/screen.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(PodcastApp());
 }
 
-class MyApp extends StatefulWidget {
+class PodcastApp extends StatefulWidget {
   @override
-  _MyAppState createState() => _MyAppState();
+  _PodcastAppState createState() => _PodcastAppState();
 }
 
-class _MyAppState extends State<MyApp> {
+class _PodcastAppState extends State<PodcastApp> {
   final _controller = PodcastController();
 
   @override
@@ -30,9 +30,9 @@ class _MyAppState extends State<MyApp> {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'KhamitovsCast',
+        title: 'Khamitovs Cast',
         theme: ThemeData(
-          primarySwatch: Colors.red,
+          primarySwatch: Colors.lightGreen,
           visualDensity: VisualDensity.adaptivePlatformDensity,
         ),
         darkTheme: ThemeData.dark().copyWith(
