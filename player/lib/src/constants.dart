@@ -1,1 +1,1 @@
-const kPodcastFeed = 'https://khamitovsteam.github.io/podcast/feed.xml';
+const kPodcastFeed = 'https://podcast.khamitovs.team/feed.xml';
