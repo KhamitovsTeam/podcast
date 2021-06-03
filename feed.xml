@@ -36,6 +36,41 @@
 
         <!-- Items -->
         <item>
+            <title>#12 В гостях Жанна Дробина обсуждаем участие в джеме Ludum Dare'48</title>
+            <pubDate>Thu, 03 Jun 2021 10:00:00 +0000</pubDate>
+            
+            <itunes:duration>00:34:41</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>
+                Ссылка на нашу игру с джема: https://ldjam.com/events/ludum-dare/48/dive-into
+                Стримы Жанны: https://www.twitch.tv/cococatus и twitter: https://twitter.com/cococatus
+
+                Демо-версия CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
+
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>Обсуждаем участие в джеме Ludum Dare'48</itunes:subtitle>
+            <description>
+                Ссылка на нашу игру с джема: https://ldjam.com/events/ludum-dare/48/dive-into
+                Стримы Жанны: https://www.twitch.tv/cococatus и twitter: https://twitter.com/cococatus
+
+                Демо-версия CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
+
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://podcast.khamitovs.team/audio/episode_12.mp3"
+                       length="83276550"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
+        <item>
             <guid isPermaLink="false">tag:soundcloud,2010:tracks/1046932885</guid>
             <title>#11 Выпуск демо-игры в Steam, статистика, планы и геймдев-квартирник</title>
             <pubDate>Tue, 11 May 2021 15:40:14 +0000</pubDate>

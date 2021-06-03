@@ -16,10 +16,10 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "icons/Icon-512.png": "ead12716fab6154ee99a64f8a678df44",
 "icons/Icon-192.png": "e3cb30eb6d55869ca7d9cec1da159306",
-"feed.xml": "57ade239a156c8fc08872708873b8113",
+"feed.xml": "c81401fa262d8f43b80b151ec2d36a38",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "favicon.png": "11bd32a50092f54a3cca1bc97689e67b",
-"audio/01-create-eng.mp3": "83d1e1f303e4b8f4cee1cadd9ad75555"
+"audio/episode_12.mp3": "2f7a9764893963bf1356fce61732c310"
 };
 
 // The application shell files that are downloaded before a service worker can
