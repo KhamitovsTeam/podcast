@@ -3,23 +3,24 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
-"img/icon.jpg": "4b25f21f06e4a0d5a4949af19e6207c6",
+  "favicon.png": "11bd32a50092f54a3cca1bc97689e67b",
 "CNAME": "ebe4cb6a3b8b8d8fedd5b9fe50dc0242",
-"main.dart.js": "0397504e2459b920b9a632bf27783ad2",
+"main.dart.js": "801e328ede5419a6652ce7d2b0fdd485",
 "index.html": "fda222db0bd0e80465779bcc2c72565d",
 "/": "fda222db0bd0e80465779bcc2c72565d",
-"assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
-"assets/AssetManifest.json": "0d266ffbe90dae02458487c9d33b7373",
-"assets/NOTICES": "289416c75d171990aefaf1a7a45fea14",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"icons/Icon-512.png": "ead12716fab6154ee99a64f8a678df44",
-"icons/Icon-192.png": "e3cb30eb6d55869ca7d9cec1da159306",
-"feed.xml": "c81401fa262d8f43b80b151ec2d36a38",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
-"favicon.png": "11bd32a50092f54a3cca1bc97689e67b",
+"feed.xml": "fe7c4486c99610b068e1d3d20839425c",
+"img/icon.jpg": "4b25f21f06e4a0d5a4949af19e6207c6",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
+"assets/NOTICES": "d7d885d802b319a10729ebb6b464cbb0",
+"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/AssetManifest.json": "0d266ffbe90dae02458487c9d33b7373",
+"version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
+"icons/Icon-192.png": "e3cb30eb6d55869ca7d9cec1da159306",
+"icons/Icon-512.png": "ead12716fab6154ee99a64f8a678df44",
+"audio/episode_13.mp3": "758d6ee48899e3a8416b8d79e9c4f99c",
 "audio/episode_12.mp3": "b7987076eca8765c09b632dacbde7a72"
 };
 

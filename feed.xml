@@ -35,6 +35,35 @@
         <googleplay:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
 
         <!-- Items -->
+		<item>
+            <title>#13 Про переезд, Steam Next Fest и прогресс разработки</title>
+            <pubDate>Fri, 09 Jul 2021 11:00:00 +0000</pubDate>
+            
+            <itunes:duration>00:12:53</itunes:duration>
+            <itunes:author>Khamitovs Team</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:summary>
+                CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
+
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </itunes:summary>
+            <itunes:subtitle>Рассказываем, как мы переезжали из Питера и про летний фестиваль игр в Steam.</itunes:subtitle>
+            <description>
+                CHIP: Rescuer of Kittens в Steam https://bit.ly/ChipOnSteam
+
+                twitter: twitter.com/khamitovsteam
+                telegram: t.me/khamitovsteam
+                vk: vk.com/khamitovsteam
+                discord: discord.com/invite/dv657RD
+            </description>
+            <enclosure type="audio/mpeg"
+                       url="https://podcast.khamitovs.team/audio/episode_13.mp3"
+                       length="12962151"/>
+            <itunes:image href="https://i1.sndcdn.com/avatars-x5ByaG4Ty5bs8nBE-D3kZyw-original.jpg"/>
+        </item>
         <item>
             <title>#12 В гостях Жанна Дробина обсуждаем участие в джеме Ludum Dare'48</title>
             <pubDate>Thu, 03 Jun 2021 10:00:00 +0000</pubDate>
