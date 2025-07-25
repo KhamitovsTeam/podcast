@@ -1,4 +1,4 @@
-# 🎙️ Khamitovs Cast — Podcast Player
+# <img wight=40 height=40 src="player/web/img/icon.jpg"/> Khamitovs Cast — Podcast Player
 
 [🇬🇧 English](README.gb.md)
 
@@ -6,7 +6,7 @@
 
 🎧 **Слушать подкаст:**
 - 🔗 [Веб-плеер подкаста](https://podcast.khamitovs.team/)
-- 📡 [RSS-лента](https://podcast.khamitovs.team/feed.xml)
+- 📡 [RSS-лента](https://podcast.khamitovs.team/feed.xml)  
 
 ---
 
