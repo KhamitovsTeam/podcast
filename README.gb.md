@@ -1,4 +1,4 @@
-# 🎙️ Khamitovs Cast (RU) — Podcast Player
+# <img wight=40 height=40 src="player/web/img/icon.jpg"/> Khamitovs Cast (RU) — Podcast Player
 
 [🇷🇺 Русский](README.md)
 
